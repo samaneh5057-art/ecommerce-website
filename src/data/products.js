@@ -4,7 +4,7 @@ const products = [
     name: "Wireless Headphones",
     price: 99.99,
     image:
-      "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?w=500&h=500&fit=crop",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT89zrOgKDPquyhncARZc_3Afhk0LkHgBBsANziRgrQTS0uE2Pxvzpp847f&s=10",
     description:
       "Premium wireless headphones with noise cancellation and 30-hour battery life. Perfect for music lovers and professionals.",
   },
@@ -13,7 +13,7 @@ const products = [
     name: "Smart Watch",
     price: 249.99,
     image:
-      "https://images.unsplash.com/photo-1523275335684-37898b6baf30?w=500&h=500&fit=crop",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGJpvOFzmazkEsDiTFYsElpOmDagOXt-ne_vpCwNjG3kr_yhsSKxlkIOE&s=10",
     description:
       "Feature-rich smartwatch with fitness tracking, heart rate monitor, and smartphone notifications. Water-resistant design.",
   },
@@ -22,7 +22,7 @@ const products = [
     name: "Laptop Stand",
     price: 49.99,
     image:
-      "https://images.unsplash.com/photo-1527864550417-7fd91fc51a46?w=500&h=500&fit=crop",
+      "https://i.etsystatic.com/10535472/r/il/5ece23/8451499689/il_300x300.8451499689_q44r.jpg",
     description:
       "Ergonomic aluminum laptop stand that improves posture and workspace organization. Adjustable height and angle.",
   },
@@ -40,7 +40,7 @@ const products = [
     name: "USB-C Hub",
     price: 39.99,
     image:
-      "https://images.unsplash.com/photo-1625842268584-8f3296236761?w=500&h=500&fit=crop",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcScdkjVDy30x5QTb8_O5DzEDEGqjlMIJa7nmOMCc-_zXDTQG2Jir7Q7FWWB&s=10",
     description:
       "Multi-port USB-C hub with HDMI, USB 3.0, and SD card reader. Expand your laptop connectivity.",
   },
@@ -58,7 +58,7 @@ const products = [
     name: "Monitor Stand",
     price: 79.99,
     image:
-      "https://images.unsplash.com/photo-1586953208448-b95a79798f07?w=500&h=500&fit=crop",
+      "https://m.media-amazon.com/images/I/71rIA3BOX5L.jpg",
     description:
       "Dual monitor stand with adjustable height and tilt. Frees up desk space and improves ergonomics.",
   },
@@ -67,7 +67,7 @@ const products = [
     name: "Webcam HD",
     price: 89.99,
     image:
-      "https://images.unsplash.com/photo-1587825140708-dfaf72ae4b04?w=500&h=500&fit=crop",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRBYPA4Fe_ZrbVXgl0iow5A9OVv7IzKvQ5aGyAEn1lkZA&s=10",
     description:
       "1080p HD webcam with auto-focus and built-in microphone. Ideal for video calls and streaming.",
   },
